@@ -53,7 +53,6 @@ namespace ConsoleApp2
                             sw.WriteLine("exec xp_cmdshell 'echo " + word + " >> C:\\programdata\\data.txt';");
                     }
                 }
-                Console.WriteLine(all);
                 }
             }
             else {
